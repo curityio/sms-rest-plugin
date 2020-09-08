@@ -1,7 +1,7 @@
 # SMS Plugin Example #
 
-[![Quality](https://curity.io/assets/images/badges/sms-rest-plugin-quality.svg)](https://curity.io/resources/code-examples/status/)
-[![Availability](https://curity.io/assets/images/badges/sms-rest-plugin-availability.svg)](https://curity.io/resources/code-examples/status/)
+[![Quality](https://img.shields.io/badge/quality-production-green)](https://curity.io/resources/code-examples/status/)
+[![Availability](https://img.shields.io/badge/availability-bundled-green)](https://curity.io/resources/code-examples/status/)
 
 This is a sample SMS plugin for the Curity Identity Server.
 
